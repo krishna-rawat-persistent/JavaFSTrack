@@ -2,4 +2,8 @@ Hello World :)
 
 Change added for branch test.
 
-change one-
+
+change for bug1
+
+change for bug2.
+
