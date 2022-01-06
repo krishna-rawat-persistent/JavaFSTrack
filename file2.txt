@@ -1,2 +1,6 @@
 change for WI4
 change for rebase.
+
+to fix bug 3
+changes are added for CR2.
+
